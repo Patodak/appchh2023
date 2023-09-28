@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "273545885824",
+    "firebase_url": "https://appbox-test-default-rtdb.firebaseio.com",
+    "project_id": "appbox-test",
+    "storage_bucket": "appbox-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:273545885824:android:9cd96ef5efc3343b970e65",
+        "android_client_info": {
+          "package_name": "app3test.boxapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "273545885824-dcihodmcpvmq4chbpdjj5ghaq9u5ekil.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "app3test.boxapp",
+            "certificate_hash": "0b499190e0891f637f42710f3bfb4d7b9698fdcf"
+          }
+        },
+        {
+          "client_id": "273545885824-9mk3rul67mhh8o2algvenqvqfol8tk3l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4PF_Su4Vyi-ZThU5wOYe3ldWAb-rAd-4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "273545885824-9mk3rul67mhh8o2algvenqvqfol8tk3l.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "273545885824-19go2tksabkf41730p075lc2avugvar2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "app3test.boxapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
